@@ -32,7 +32,7 @@ RTILA Software Bot Launcher empowers you to harness the true potential of automa
 
 ## Feedback and Support
 
-We value your feedback and are committed to providing you with exceptional support throughout your automation journey. If you have any questions, encounter issues, or want to share your success stories, please reach out to our dedicated support team at support@rtila.com.
+We value your feedback and are committed to providing you with exceptional support throughout your automation journey. If you have any questions, encounter issues, or want to share your success stories, please reach out to our dedicated support team at [https://rtila.com/support](https://rtila.com/support).
 
 ## Conclusion
 
